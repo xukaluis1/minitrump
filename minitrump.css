@@ -462,7 +462,7 @@ p1{
 }
 
 .grid div{
-	background: url('elonspace.png') fixed;
+	background: url('minitrump.png') fixed no-repeat;
 	background-size: cover;
 	background-position: -15em 100%;
 	border-radius: 10px;
